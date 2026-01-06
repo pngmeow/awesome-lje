@@ -31,6 +31,8 @@ A curated list of **awesome projects** built with [lj-expand](https://github.com
 
 * **[gilbhax](https://github.com/yogwoggf/gilbhax)**
   A Garry's Mod cheat created using LJE.
+* **[antifreeze](https://github.com/Xandertron/antifreeze)
+  Gilbhax fork with Xandertron's improvements.
 
 ---
 
