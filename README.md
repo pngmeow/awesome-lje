@@ -23,8 +23,6 @@ A curated list of **awesome projects** built with [lj-expand](https://github.com
 
 * **[gmgui](https://github.com/Eyoko1/gmgui)**
   An ImGui-inspired UI library.
-* **[glui](https://github.com/pngmeow/glui)**
-  A Garry's Mod Ui Library.
 ---
 
 ## Cheats
