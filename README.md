@@ -23,6 +23,8 @@ A curated list of **awesome projects** built with [lj-expand](https://github.com
 
 * **[gmgui](https://github.com/Eyoko1/gmgui)**
   An ImGui-inspired UI library.
+* **[vanity](https://github.com/Eyoko1/vanity)
+* A retained mode UI library.
 ---
 
 ## Cheats
