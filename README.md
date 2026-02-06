@@ -1,6 +1,6 @@
 # Awesome LJE
 
-A curated list of **awesome projects** built with [lj-expand](https://github.com/yogwoggf/lj-expand).
+A curated list of **awesome projects** built with [lj-expand](https://github.com/lj-expand/lj-expand).
 
 ---
 
@@ -25,11 +25,13 @@ A curated list of **awesome projects** built with [lj-expand](https://github.com
   An ImGui-inspired UI library.
 * **[vanity](https://github.com/Eyoko1/vanity)**
   A retained mode UI library.
+* **[lje-imgui](https://github.com/lj-expand/lje-imgui)**
+  A binary module for imgui.
 ---
 
 ## Cheats
 
-* **[gilbhax](https://github.com/yogwoggf/gilbhax)**
+* **[gilbhax](https://github.com/lj-expand/gilbhax)**
   A Garry's Mod cheat created using LJE.
 * **[antifreeze](https://github.com/Xandertron/antifreeze)**
   Gilbhax fork with Xandertron's improvements.
