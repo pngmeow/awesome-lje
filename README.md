@@ -16,6 +16,8 @@ A curated list of **awesome projects** built with [lj-expand](https://github.com
 
 * **[ljeutil](https://github.com/Eyoko1/ljeutil)**
   Utilities and helper functions for writing LJE scripts.
+* **[ljenettools](https://github.com/pngmeow/ljenettools)**
+  Network utility for doing ``BsendPacket`` stuff, with additional ``hostaccumulate_time`` hook.
 
 ---
 
