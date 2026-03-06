@@ -25,8 +25,8 @@ A curated list of **awesome projects** built with [lj-expand](https://github.com
 
 ## UI Libraries
 
-* **[gmgui](https://github.com/Eyoko1/gmgui)**
-  An ImGui-inspired UI library.
+* ~~**[gmgui](https://github.com/Eyoko1/gmgui)**~~
+  ~~An ImGui-inspired UI library.~~ (deprecated)
 * **[vanity](https://github.com/Eyoko1/vanity)**
   A retained mode UI library.
 * **[lje-imgui](https://github.com/lj-expand/lje-imgui)**
