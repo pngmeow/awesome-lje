@@ -9,6 +9,7 @@ A curated list of **awesome projects** built with [lj-expand](https://github.com
 * [Utilities](#utilities)
 * [UI Libraries](#ui-libraries)
 * [Cheats](#cheats)
+* [Other](#other)
 
 ---
 
@@ -39,6 +40,12 @@ A curated list of **awesome projects** built with [lj-expand](https://github.com
   A Garry's Mod cheat created using LJE.
 * **[antifreeze](https://github.com/Xandertron/antifreeze)**
   Gilbhax fork with Xandertron's improvements.
+
+---
+
+## Other
+* **[base](https://github.com/0xPLB/base)**
+  A base script.
 
 ---
 
